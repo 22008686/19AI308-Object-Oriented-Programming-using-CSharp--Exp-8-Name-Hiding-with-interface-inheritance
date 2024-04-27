@@ -7,7 +7,7 @@ Implement this interface in a class Mario and override the Ability() method also
 and hides the Ability() method using the new keyword.
 
 # PROGRAM:
-c#
+```
 using System;
 public interface IMario
 {
@@ -38,7 +38,7 @@ class Program
 
     }
 }
-c#
+```
 
 # OUTPUT:
 
